@@ -1,0 +1,8 @@
+File I/O is awesome.
+Yay
+wow
+cool
+coool
+coooool
+186
+password = 800000
