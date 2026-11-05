@@ -1,0 +1,3 @@
+'question' : 'Whats the country that borders the U.K?', 'answer' : 'Ireland'
+'question' : 'What year did the Chinese Communists take power?', 'answer' : '1949'
+'question' : 'What is the name of the Navajo in their native lanuage?', 'answer' : 'Dine'
